@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DEEPAK KUMAR RAJ
-- 👀 I’m interested in android development and machine learning
+- 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning c programming language
 - 💞️ I’m looking to collaborate on learning c programming language
 - 📫 You can reach me at facebook|instagram|twitter/ideepak9898

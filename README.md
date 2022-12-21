@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ideepak9898" alt="ideepak9898" /></a> </p>
 
-- 🌱 I’m currently learning **C++ Programming Language**
+- 🌱 currently I’m learning **DATA STRUCTURES AND ALGORITHM**
 
 - 📫 How to reach me **Deepakraj33333@gmail.com**
 

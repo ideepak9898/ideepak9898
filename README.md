@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ideepak9898&label=Profile%20views&color=0e75b6&style=flat" alt="ideepak9898" /> </p>
 
-- 🌱 currently I’m learning **DATA STRUCTURES AND ALGORITHM**
-
 - 📫 How to reach me **Deepakraj33333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,30 +1,48 @@
-# Hi 👋, I'm Deepak Kumar Raj
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF;">Deepak Kumar Raj</span>
+</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | AI/ML Enthusiast | Open Source Contributor
+</h3>
 
 <div align="center">
 
-### 🚀 Full Stack Developer | AI/ML Enthusiast | Open Source Contributor
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Engineer;Python+Developer;AWS+Cloud+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Engineer;Python+Developer;AWS+Cloud+Enthusiast;Open+Source+Contributor" />
 
 </div>
 
 ---
 
-## 🌟 About Me
+<table>
+<tr>
+<td width="55%">
 
-- 🔭 Currently working on **AI/ML & Full Stack Projects**
-- 🌱 Learning **Advanced System Design & Cloud Architecture**
-- 💡 Passionate about **Artificial Intelligence & Scalable Applications**
-- ⚡ Love building **modern web applications & intelligent systems**
-- 🎯 Interested in **Open Source Contributions**
-- ☁️ Experience with **AWS Cloud Services**
-- 📫 Reach me at: **deepakraj33333@gmail.com**
+# 🌟 About Me
+
+- 🔭 Currently working on AI/ML & Full Stack Projects
+- 🌱 Learning Advanced System Design & Cloud Architecture
+- 💡 Passionate about Artificial Intelligence & Scalable Applications
+- ⚡ Love building modern web applications & intelligent systems
+- 🎯 Interested in Open Source Contributions
+- ☁️ Experience with AWS Cloud Services
+- 📫 Reach me at: Deepakraj33333@gmail.com
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/9919?v=4" width="250" style="border-radius:50%;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/ideepak9898">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -46,23 +64,31 @@
 
 <div align="center">
 
-### 🚀 Languages
+## 🚀 Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,html,css"/>
 
-### ⚡ Frontend Development
+<br><br>
+
+## ⚡ Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 
-### 🔥 Backend Development
+<br><br>
+
+## 🔥 Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,flask,dotnet"/>
 
-### ☁️ Cloud & Database
+<br><br>
+
+## ☁️ Cloud & Database
 
 <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,firebase"/>
 
-### 🛠️ Tools & Technologies
+<br><br>
+
+## 🛠️ Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
 
@@ -72,20 +98,30 @@
 
 # 🚀 Featured Projects
 
-## 🏠 HomeValueAI
-### Machine Learning Based House Price Prediction System
+<table>
+<tr>
 
-- 📊 Predicts house prices using **RandomForestRegressor**
+<td width="33%">
+
+## 🏠 HomeValueAI
+
+### Machine Learning Based House Price Prediction
+
+- 📊 Predicts house prices using RandomForestRegressor
 - 🌐 Flask based web application
 - 📈 Feature engineering & model optimization
 - 🎨 Responsive frontend using HTML, CSS & JavaScript
 
-### Tech Used
+#### ⚙️ Tech Stack
+
 `Python` `Flask` `Machine Learning` `REST API`
 
----
+</td>
+
+<td width="33%">
 
 ## 🎯 Smart Attendance System
+
 ### Face Recognition Attendance Using OpenCV
 
 - 📷 Face detection & recognition
@@ -93,12 +129,16 @@
 - ⚡ Real-time webcam processing
 - 🔍 OpenCV based AI implementation
 
-### Tech Used
+#### ⚙️ Tech Stack
+
 `Python` `OpenCV` `Face Recognition` `AI`
 
----
+</td>
+
+<td width="33%">
 
 ## 🤖 TaskGPT
+
 ### AI Powered Productivity Platform
 
 - ✨ Interactive UI & animations
@@ -106,8 +146,14 @@
 - 🎭 Built using Framer Motion
 - 📱 Responsive modern design
 
-### Tech Used
+#### ⚙️ Tech Stack
+
 `React` `Bootstrap` `Framer Motion` `JavaScript`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -121,9 +167,7 @@
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
@@ -153,11 +197,11 @@
 
 ---
 
-# ⚡ Fun Quote
+# 👀 Profile Views
 
 <div align="center">
 
-### “Code. Learn. Build. Repeat.”
+<img src="https://komarev.com/ghpvc/?username=ideepak9898&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -165,8 +209,8 @@
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile
+# 💙 Code. Learn. Build. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=ideepak9898&label=Profile%20Views&color=0e75b6&style=flat"/>
+### Thanks for visiting my profile 🚀
 
 </div>

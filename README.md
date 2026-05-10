@@ -18,7 +18,7 @@
 - ⚡ Love building **modern web applications & intelligent systems**
 - 🎯 Interested in **Open Source Contributions**
 - ☁️ Experience with **AWS Cloud Services**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **deepakraj33333@gmail.com**
 
 ---
 

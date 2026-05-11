@@ -14,10 +14,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="100%">
-
 # 🌟 About Me
 
 - 🔭 Currently working on AI/ML & Full Stack Projects
@@ -27,10 +23,6 @@
 - 🎯 Interested in Open Source Contributions
 - ☁️ Experience with AWS Cloud Services
 - 📫 Reach me at: Deepakraj33333@gmail.com
-
-</td>
-</tr>
-</table>
 
 ---
 

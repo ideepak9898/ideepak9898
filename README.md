@@ -165,7 +165,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ideepak9898&theme=tokyonight&no-frame=true&margin-w=15"/>
+
 
 </div>
 

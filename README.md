@@ -32,7 +32,6 @@
 
 <td width="45%" align="center">
 
-<img src="https://drive.google.com/file/d/1iRCMAjC2VUNg0ARCLS7RQzxcOqdW19d_/view?usp=sharing" width="250" style="border-radius:50%;" />
 
 </td>
 </tr>

@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="100%">
 
 # 🌟 About Me
 

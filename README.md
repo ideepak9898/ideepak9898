@@ -29,11 +29,6 @@
 - 📫 Reach me at: Deepakraj33333@gmail.com
 
 </td>
-
-<td width="45%" align="center">
-
-
-</td>
 </tr>
 </table>
 
